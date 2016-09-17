@@ -1,0 +1,7 @@
+{application, ecirca,
+ [
+  {description, "CIRCA Circular Arrays"},
+  {vsn, "1.0.1"},
+  {registered, []},
+  {applications, [kernel, stdlib]}
+ ]}.
